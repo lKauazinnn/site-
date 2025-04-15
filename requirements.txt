@@ -1,0 +1,4 @@
+Flask==2.2.5
+pdfplumber==0.10.2
+openpyxl==3.1.2
+Werkzeug==2.2.3
